@@ -13,7 +13,8 @@ We cover the concepts of prior distributions and evidence, the EM algorithm, MCM
 
 | Week  | Date | Topic |
 | :-:   | :-:  | :-:   |
-| 1    |       | Introduction |
+| 1    |  20260915     | Introduction |
+| 2    |  20260922     | Introduction: Naive Bayes Classifier. Exponential Family of distributions |
 
 
 ## Home Assignments
